@@ -405,6 +405,7 @@
 				AFEA813E1A66F98A004CB659 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AFEA813F1A66F98A004CB659 /* Build configuration list for PBXNativeTarget "ListyTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				AFEA81411A66F98A004CB659 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
